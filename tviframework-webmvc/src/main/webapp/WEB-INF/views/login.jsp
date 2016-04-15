@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-如果看到此页,说明一切OK!
+    <h2><a href="/tfw/index">首页</a></h2>
 </body>
 </html>
