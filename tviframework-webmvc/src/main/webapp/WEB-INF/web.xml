@@ -38,7 +38,7 @@
         </init-param>
         <init-param>
             <param-name>serverName</param-name>
-            <param-value>http://192.168.213.98:8000</param-value>
+            <param-value>http://192.168.213.103:8000</param-value>
         </init-param>
     </filter>
 
@@ -55,7 +55,7 @@
         </init-param>
         <init-param>
             <param-name>serverName</param-name>
-            <param-value>http://192.168.213.98:8000</param-value>
+            <param-value>http://192.168.213.103:8000</param-value>
         </init-param>
     </filter>
 

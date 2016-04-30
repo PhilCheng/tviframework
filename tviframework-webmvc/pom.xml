@@ -74,7 +74,6 @@ Author: Phil
                     <target>1.7</target>
                     <compilerArguments>
                         <!--指定JRE路径. 如不指定在某些场景下会出错. Windows与Linux的区别在于路径之间的分隔符不同,windows为分号,Linux为冒号-->
-                        <verbose/>
                         <!-- Windows -->
                         <!-- <bootclasspath>${java.home}/lib/rt.jar;${java.home}/lib/jce.jar</bootclasspath> -->
                         <!-- Linux/OS X -->
